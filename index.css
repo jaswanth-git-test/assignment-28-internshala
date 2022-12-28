@@ -1,0 +1,125 @@
+*{
+    margin: 0;
+    padding: 0;
+}
+
+.header-section{
+    background-image: url(assets/coding-image.jpg);
+    background-size: cover;
+    color: white;
+    height: 200px;
+    padding: 40px;
+    text-align: center;
+    
+}
+
+.header-section .main-heading{
+    margin: 20px;
+}
+
+.header-section .header-description{
+    margin: 0px 100px;
+    padding: 0px 150px;
+    
+}
+
+.header-section .header-button{
+    margin: 20px;
+   
+}
+
+.header-section button{
+    padding: 2.5px;
+    background-color: #434242;
+    border: .5px solid #ffffff;
+
+}
+
+.second-section{
+    height: 150px;
+    text-align: center;
+    padding: 35px;
+}
+
+.second-section heading{
+    margin-bottom: 15px;
+}
+
+.second-section .description{
+    display: flex;
+    margin: 20px;
+}
+
+.second-section .description-card{
+    padding: 0px 20px;
+    font-weight: 600;
+}
+
+.card-image img{
+    height: 200px;
+    width: 100%;
+}
+
+.third-section{
+    background-color: #434242;
+    padding: 0px 50px;
+    display: flex;
+}
+
+.third-section .card{
+    background-color: #EFF5F5;
+    margin: 50px;
+}
+
+.card .card-description,.card-heading{
+    padding: 10px;
+    text-align: center;
+}
+
+.fourth-section{
+    height: 140px;
+    text-align: center;
+    padding: 80px;
+}
+
+.fourth-section .heading{
+    margin-bottom: 20px;
+}
+
+.fourth-section .description{
+    padding: 0px 20px;
+}
+
+.fifth-section{
+    display: flex;
+
+}
+
+.card-1{
+    background-color: #47B5FF;
+    color: #ffffff;
+    
+}
+
+.card-2{
+    background-color: #434242;
+    color: #ffffff;
+}
+
+.fifth-section .card{
+    padding: 15px 10px;
+}
+
+.footer-section{
+    padding: 10px;
+    display: flex;
+    justify-content: space-around;
+    background-color: black;
+    color: #ffffff;
+    font-weight: 500;
+}
+
+.footer-span{
+   color: #1746A2;
+   text-decoration: underline;
+}
